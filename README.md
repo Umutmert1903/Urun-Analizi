@@ -40,5 +40,8 @@ Dashboard dosyasını Power BI'a yükleyin ve etkileşimli raporları inceleyin.
 🎯 Projenin Amacı
 Bu çalışma, müşteri verilerini anlamlı analizlerle değerlendirerek iş stratejilerine yön verecek bilgiler üretmeyi hedeflemektedir. Cinsiyet, sezon ve ürün kategorilerine göre yapılan analizler, işletmelerin hedef kitleye yönelik planlamalar yapmasına olanak tanır.
 
+![8](https://github.com/user-attachments/assets/e65884f3-d17f-40ed-8f1e-f8356fa8c197)
+![9](https://github.com/user-attachments/assets/c1b3b4ce-d1e0-4517-920f-94fc5f4db459)
+
 
  
