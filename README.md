@@ -1,4 +1,6 @@
 PYTHON VERİ BİLİMİ İÇİN YAPILMIŞ BİR PROJEDİR - UMUT MERT OF (132230003)
+
+
 🛒 Alışveriş Trendleri Analizi – Product-Analysis
 Bu proje, müşterilerin alışveriş davranışlarını inceleyerek farklı müşteri profilleri hakkında stratejik öngörüler elde etmeye yöneliktir.
 Sağlanan veri seti ve SQL sorgularıyla analizler gerçekleştirilmiş, sonuçlar Power BI ile görselleştirilmiştir.
