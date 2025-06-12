@@ -59,6 +59,9 @@ Tahmin Sonucu: 2025 Spring sezonu için tahmini satış ≈ 76.250 USD
 ![8](https://github.com/user-attachments/assets/e65884f3-d17f-40ed-8f1e-f8356fa8c197)
 ![9](https://github.com/user-attachments/assets/c1b3b4ce-d1e0-4517-920f-94fc5f4db459)
 ![tahmin_grafik](https://github.com/user-attachments/assets/bee9721a-4fbd-4b50-b5c8-3760965800eb)
+![sezon_cinsiyet_harcama](https://github.com/user-attachments/assets/201cdd79-6886-4c2f-a59c-17f679d0e515)
+![odeme_cinsiyet](https://github.com/user-attachments/assets/24ebb502-5656-475c-947a-3940638c3d3c)
+![cinsiyet_kategori](https://github.com/user-attachments/assets/3ca7b9fe-0832-413a-9043-e4791877e75c)
 
 
 
